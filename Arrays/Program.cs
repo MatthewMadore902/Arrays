@@ -53,8 +53,8 @@ namespace Arrays
 						// int[] means a array of integers.
 						//ammo is a array of integers.
 
-			int[] maxAmmo;
-			maxAmmo[0] = 6;
+			//int[] maxAmmo;
+			//maxAmmo[0] = 6;
 
 			ammo = new int[3]; // initialization, telling compiler the size
 			ammo[0] = 6;
